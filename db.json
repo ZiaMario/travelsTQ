@@ -36,7 +36,7 @@
     "availableSeats": 3, 
     "departureTime": "18:00"
   },
-  "dataTravels": :[
+  "dataTravels": [
    {"Lunes":[
     {"name": "Daniel", "departureTime": "17:00"},
     {"name":"Beto V", "departureTime":"14:00"},
