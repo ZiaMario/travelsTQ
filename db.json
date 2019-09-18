@@ -13,18 +13,11 @@
       "title": "Post 3"
     }
   ],
-  "comments11": [
+  "reservedTrips": 
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "driver": "Ángel",
+      "travelDate": "2019-09-21T00:00:00.0-0600"
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
   "reserveSeat": {
     "description": "reservation success"
   },
