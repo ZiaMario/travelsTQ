@@ -35,5 +35,55 @@
     "amount": 200, 
     "availableSeats": 3, 
     "departureTime": "18:00"
+  },
+  "dataTravels": :[
+   {"Lunes":[
+    {"name": "Daniel", "departureTime": "17:00"},
+    {"name":"Beto V", "departureTime":"14:00"},
+    {"name": "Rocio", "departureTime": "17:30"}
+   ]
+  }, 
+  {"Martes": [
+    {"name": "Xochitl", "departureTime": "18:00"}, 
+    {"name":"Yaneli", "departureTime":"13:00"}, 
+    {"name": "Rogelio", "departureTime": "17:30"}, 
+    {"name": "Iris", "departureTime": "17:30"}
+  ]
+  },
+  {"Miercoles": [
+    {"name": "Jordan", "departureTime": "18:00"}, 
+    {"name":"Gaby", "departureTime":"13:00"}, 
+    {"name": "Ela", "departureTime": "17:30"}
+   ]
+  }, 
+  {"Jueves": [
+    {"name": "Guadalupe", "departureTime": "18:00"}, 
+    {"name":"Hugo", "departureTime":"13:00"}, 
+    {"name": "Fatima", "departureTime": "17:30"}, 
+    {"name": "Gisel", "departureTime": "17:30"}
+   ]
+  }, 
+  {"Viernes": [
+    {"name": "Erick", "departureTime": "18:00"}, 
+    {"name":"Aylin", "departureTime":"13:00"}, 
+    {"name": "Bety", "departureTime": "17:30"}, 
+    {"name": "Brenda", "departureTime": "17:30"}, 
+    {"name": "Andres", "departureTime": "17:30"}, 
+    {"name": "Uriel", "departureTime": "17:30"}
+   ]
+  }, 
+  {"Sabado": [
+    {"name": "Mary", "departureTime": "18:00"}, 
+    {"name":"Roger", "departureTime":"13:00"}, 
+    {"name": "Jorge", "departureTime": "17:30"}, 
+    {"name": "Josue", "departureTime": "17:30"}, 
+    {"name": "Jesus", "departureTime": "17:30"}, 
+    {"name": "Alejandro", "departureTime": "17:30"}
+   ]
+  }, 
+  {"Domingo":[
+    {"name": "Lilia", "departureTime": "18:00"}
+  ]
   }
+]
 }
